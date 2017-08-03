@@ -1,6 +1,14 @@
-A place to store details about (most) events like hackathons/startup weekends I've made stuff at.  Visit my website [jaimyn.com.au](https://jaimyn.com.au "Visit my website") to see my blog and other projects.  Please note that most of these "live demos" aren't 100% functional as they are mostly just used to demonstrate a concept during a pitch.
+A place to store details about (most) events like hackathons/startup weekends I've made stuff at.  Visit my website [jaimyn.com.au](https://jaimyn.com.au "Visit my website") to see my blog and other projects.  Please note that most of these "live demos" aren't 100% functional as they are mostly just used to demonstrate a concept during a pitch.  Also I don't feel like listing everything so these tend to just be the cooler/more useful things :).
 
 # Events & Things
+
+## Govhack (@ UQ) 2017
+### Twitter Pitch
+A multi platform chat bot that finds brisbane events.
+### Description
+Discover Brisbane is a smart chat bot that utilises the api.ai natural language processing and machine learning platform.  It pulls in data from official Brisbane City Council data feeds to respond to requests like "are there any events on this week". [Click Here](https://discoverbrisbane.tech) to see it in action.
+#### Prizes
+*winners not decided yet
 
 ## Angel Hack Brisbane 2017 - "Eat It"
 ### Twitter Pitch
